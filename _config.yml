@@ -1,8 +1,6 @@
-title: Jekyll URL Shortener
-description: ✂️🔗 This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends. Fork this repo to get started.
-logo: /assets/img/logo.png
-show_downloads: true
-google_analytics:
+title: LTG's URL Shortener (Powered by Jekyll)
+description: The official URL shortener of LaroTayoGaming
+show_downloads: false
 theme: jekyll-theme-minimal
 
 permalink: /:slug/
@@ -10,4 +8,4 @@ permalink: /:slug/
 plugins:
   - jekyll-redirect-from
 
-#repository: hlaueriksson/jekyll-url-shortener
+repository: LaroTayoGaming/url-shortener
