@@ -5,6 +5,9 @@ theme: jekyll-theme-minimal
 
 permalink: /:slug/
 
+github:
+  is_project_page: false
+
 plugins:
   - jekyll-redirect-from
 
