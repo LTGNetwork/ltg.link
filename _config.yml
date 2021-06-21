@@ -10,5 +10,6 @@ github:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-analytics
 
 repository: LaroTayoGaming/url-shortener
