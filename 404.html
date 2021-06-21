@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Not found men, not found.
 permalink: /404.html
 ---
 
@@ -11,15 +12,40 @@ permalink: /404.html
   }
   h1 {
     margin: 30px 0;
-    font-size: 4em;
+    font-size: 1.5em;
     line-height: 1;
     letter-spacing: -1px;
+  }
+
+  .video-container {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+  }
+
+  .video-container::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+  }
+
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
+  <h1>404 - Not found, didn't find. </h1>
+  
+  <div class="video-container">
+  <iframe src="https://www.youtube.com/embed/vINB7N9NKOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+  </div>
+  <br />
+  <p><strong>Page not found in our databases :(</strong></p>
   <p>The requested page could not be found.</p>
+  You can see our <a href="https://ltg.link/about">links page</a> for the full list of links.
 </div>
