@@ -1,7 +1,7 @@
 title: LTG's URL Shortener (Powered by Jekyll)
 description: The official URL shortener of LaroTayoGaming
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 permalink: /:slug/
 
