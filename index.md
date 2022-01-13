@@ -1,4 +1,4 @@
 ---
 title: LaroTayoGaming
-redirect_to: https://larotayogaming.com
+redirect_to: https://odysee.com/$/invite/@LaroTayoGaming:1
 ---
