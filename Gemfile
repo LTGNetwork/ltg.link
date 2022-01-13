@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from", "~> 0.14.0"
 end
 
+gem "bundler" , "~> 1.16.2"
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 #gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
