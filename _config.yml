@@ -10,6 +10,5 @@ github:
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-analytics
 
 repository: ltgnetwork/url-shortener
