@@ -1,5 +1,5 @@
-title: LTG's URL Shortener (Powered by Jekyll)
-description: The official URL shortener of LaroTayoGaming
+title: LTG Network URL Shortener (Powered by Jekyll)
+description: The official URL shortener of the LTG Network
 show_downloads: false
 theme: jekyll-theme-cayman
 
@@ -12,9 +12,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-analytics
 
-repository: LaroTayoGaming/url-shortener
-
-jekyll_analytics:
- Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
-    url: stats.larotayogaming.com # Required - url to Matomo installation without trailing /
-    siteId: "3"          # Required - replace with your Matomo site id (Write id as string)
+repository: ltgnetwork/url-shortener
