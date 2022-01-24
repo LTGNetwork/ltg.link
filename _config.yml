@@ -12,8 +12,6 @@ baseurl: ""
 permalink: /:slug/
 logo: /assets/logo.png
 
-theme: jekyll-theme-minimal
-
 plugins:
   - jekyll-redirect-from
 
@@ -27,6 +25,7 @@ whitelist:
 
 redirect_from:
   json: false
+
 
 exclude:
   - Gemfile
