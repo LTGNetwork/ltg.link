@@ -8,7 +8,29 @@ permalink: /:slug/
 github:
   is_project_page: false
 
+baseurl: ""
+permalink: /:slug/
+logo: /assets/logo.png
+
+theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-redirect-from
 
-repository: ltgnetwork/url-shortener
+collections:
+  urls:
+    output: true
+    permalink: /:slug
+
+whitelist:
+  - jekyll-redirect-from
+
+redirect_from:
+  json: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
