@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LTG Network Terms and Conditions
+description: Please read this carefully.
 ---
 
 <p>Welcome to LTG Network!</p>
