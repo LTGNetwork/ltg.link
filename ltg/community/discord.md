@@ -1,5 +1,5 @@
 ---
-title: LTG's Discord Server (Community)
+title: LTG Network Server (Community)
 permalink: /ltg/discord/
-redirect_to: https://discord.gg/DzGyhPQ
+redirect_to: https://discord.gg/QaCPhtcSD6
 ---
