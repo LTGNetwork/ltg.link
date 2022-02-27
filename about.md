@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<script defer data-domain="ltg.link" src="https://analytics.ltg.link/js/plausible.js"></script>
+<script defer data-domain="ltg.link" src="https://analytics.ltg.network/js/plausible.js"></script>
 
 
 {% assign redirects = site.pages | where_exp: "item", "item.redirect_to != nil" %}
