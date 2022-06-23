@@ -1,6 +1,6 @@
 ---
 title: LTG's Stream Schedule
 permalink: /ltg/schedule
-redirect_to: https://calendar.google.com/calendar/u/2?cid=YTE0OWo0NnFwOG02Mm5tOXJjcXVkaWxzdHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+redirect_to: https://calendar.google.com/calendar/u/2?cid=bHRnbmV0d29ya0Bwcm90b25tYWlsLmNvbQ
 ---
 
